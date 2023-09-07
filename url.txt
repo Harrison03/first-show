@@ -1,0 +1,1 @@
+sudo apt install libc6-dev libtinfo5 gcc curl libc6-dev python3-matplotlib python3-pyside2.qtgui python3-pyside2.qtwidgets python3-pyside2.qtsvg python3-pyside2.qtprintsupport python3-pyside2.qtuitools python3-qtconsole python3-serial python3-snappy python-is-python3
